@@ -1,4 +1,4 @@
 import psutil
-import streamli as st
+import streamlit as st
 
 st.write(psutil.virtual_memory())
